@@ -92,7 +92,7 @@ Compared the estimated intrinsic share price with the prevailing market price to
 ---
 
 ## Dashboard Preview
-
+Screenshot 2026-06-27 213025.png
 
 
 
